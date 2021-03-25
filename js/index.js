@@ -1,1 +1,2 @@
-document.querySelector('#app')
+let app = document.querySelector('#app')
+console.log(app)
